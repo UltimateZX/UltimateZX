@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @UltimateZX
 - 👀 I’m interested in Back End Development
-- 🌱 I’m currently learning Object Oriented Programming in Java
+- 🌱 I’m currently learning Full Stack Web Development
 - 😄 Pronouns: He/Him
 
 <!---
